@@ -6,6 +6,10 @@ labels: ''
 assignees: ''
 ---
 
+```
+NB! Switch to the preview mode using the button above for better readability of the instructions.
+```
+
 Issues are at the heart of any open source project collaboration. Thank you for submitting an issue and making GraalVM the best it can be.
 
 **Reporting issues**
